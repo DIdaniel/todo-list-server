@@ -1,0 +1,18 @@
+{
+  "name": "todo-list",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/DIdaniel/todo-list-server.git",
+  "author": "KIM DONG IL <cappu159@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start:dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
